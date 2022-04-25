@@ -1,0 +1,3 @@
+/home/franciscoizquierdo/Desktop/Computacao Grafica/TP7/cmake-build-debug/CMakeFiles/class6.dir
+/home/franciscoizquierdo/Desktop/Computacao Grafica/TP7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/franciscoizquierdo/Desktop/Computacao Grafica/TP7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
